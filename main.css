@@ -1,0 +1,94 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    background-color: #D6E1FF;
+    font-family: 'Poppins', sans-serif;
+}
+
+.Main-container{
+    width: 30%;
+    height: 95vh;
+    margin-top: 2%;
+    margin-left: 35%;
+    border-radius: 20px;
+    background-color: #ffff;
+}
+
+img{
+    width: 100%;
+    border-radius: 20px 20px 0px 0px;
+}
+
+#hero-text{
+    display: block;
+    margin-top: 5%;
+    margin-left: 24%;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+#sub-hero-text{
+    text-align: center;
+    margin-top: 4%;
+    font-size: small;
+}
+
+#annual-btn{
+    display: flex;
+    flex-direction: row;
+    background: #F8F9FE;
+    width: 68%;
+    padding: 5%;
+    margin-top: 4%;
+    margin-left: 12%;
+    border-radius: 10px;
+    
+}
+
+#music-note{
+float: inline-start;
+  width: 100%;
+   
+}
+
+#price-plan{
+    font-size: small;
+   margin-left: 10%;
+   
+}
+
+#c-link{
+    text-decoration: underline;
+    color: #382AE1;
+    margin-left: 100%;
+    font-size: small;
+    font-weight: 600;
+}
+
+#proceed-btn{
+    display: block;
+    padding: 3%;
+    text-align: center;
+    width: 70%;
+    margin-top: 8%;
+    margin-left: 13%;
+    border-radius: 7px;
+    background-color: #382AE1;
+    font-size: smaller;
+}
+
+#cancel{
+    display: block;
+    margin-top: 4%;
+    margin-left: 40%;
+    font-size: smaller;
+    color: rgb(31, 2, 97);
+}
+
+a{
+    text-decoration: none;
+    color: #ffff;
+}
